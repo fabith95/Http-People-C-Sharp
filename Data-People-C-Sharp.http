@@ -1,0 +1,6 @@
+@Data_People_C_Sharp_HostAddress = http://localhost:5226
+
+GET {{Data_People_C_Sharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
